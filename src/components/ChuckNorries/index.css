@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+}
+.bg-container {
+  background-image: linear-gradient(to right, #337cf2, #446fb3, #374152);
+  background-size: cover;
+  height: 160vh;
+  width: 100vw;
+  padding: 15px;
+}
+
+.main-heading {
+  color: #39d40f;
+  font-family: 'Roboto';
+  text-align: center;
+  font-size: 35px;
+}
+
+.ulEl {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
